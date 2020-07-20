@@ -11,7 +11,9 @@ end
 
 def loop_message_n_timesZ(message, loop_times)
   counter = 0
-  while
+  
+  while counter < loop_times
+  
     
   end
 end
