@@ -17,3 +17,7 @@ def loop_message_n_times(message, loop_times)
     counter +=1
   end
 end
+
+def output_array(array)
+  puts 
+end
