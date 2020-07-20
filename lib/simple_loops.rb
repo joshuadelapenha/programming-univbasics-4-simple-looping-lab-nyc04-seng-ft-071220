@@ -31,7 +31,8 @@ end
 def return_string_array(array)
   counter = 0
   while counter < array.size
-    message = array[counter].to_s
+    message = array[counter].
+    binding.pry
     puts message
     counter += 1
   end
