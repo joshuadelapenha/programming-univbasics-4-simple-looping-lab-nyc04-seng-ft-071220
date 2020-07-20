@@ -9,5 +9,9 @@ def loop_message_five_times(message)
   end
 end
 
-def loop_message_five_times
+def loop_message_n_timesZ(message, loop_times)
+  counter = 0
+  while
+    
+  end
 end
