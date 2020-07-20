@@ -32,4 +32,5 @@ def return_string_array(array)
     message = array[counter].to_s
     puts message
     counter += 1
+  end
 end
