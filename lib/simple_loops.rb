@@ -13,7 +13,7 @@ def loop_message_n_timesZ(message, loop_times)
   counter = 0
   
   while counter < loop_times
-  
-    
+    puts message
+    counter +=1
   end
 end
