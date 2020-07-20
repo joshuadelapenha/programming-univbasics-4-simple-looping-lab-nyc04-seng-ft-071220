@@ -25,3 +25,4 @@ def output_array(array)
     counter += 1
   end
 end
+
