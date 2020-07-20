@@ -28,6 +28,7 @@ end
 
 def return_string_array(array)
   counter = 0
+  new_arr = []
   while counter < array.size
     message = array[counter].to_s
     p message
