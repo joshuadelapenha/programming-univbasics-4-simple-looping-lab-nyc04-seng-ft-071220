@@ -29,7 +29,7 @@ end
 def return_string_array(array)
   counter = 0
   while counter < array.size
-    message = array[counter].
+    message = array[counter].to_s
     puts message
     counter += 1
   end
