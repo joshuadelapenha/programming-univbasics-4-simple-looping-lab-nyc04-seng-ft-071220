@@ -30,8 +30,8 @@ def return_string_array(array)
   counter = 0
   new_arr = []
   while counter < array.size
-    message = array[counter].to_s
-    new_arr.push(array)
+    new_arr << array[counter].to_s
     counter += 1
   end
+  new_arr
 end
